@@ -1,0 +1,8 @@
+# Phenological Shifts Detected for Zygoptera in the Context of an Ongoing Inventory of Odonata
+The University of Virginia’s College at Wise, Wise, VA 24293
+
+2017-2018
+
+Abstract
+
+The influence of long-term climate change on phenology, the timing of biological events, for Odonata (consisting of separate suborders for dragonflies and damselflies) has been well documented in several parts of the world, showing a negative correlation between emergence date and temperature. Previous studies have shown that spring-emerging species, with an overwintering diapause, are more susceptible to climate change than those species emerging later in the summer. The context of this study is an ongoing biodiversity inventory of Odonata on the campus of UVA-Wise in Wise, VA that began in 2015. Odonates collected in Spring 2015 experienced a much colder winter than the specimens collected in 2017 and allowed for the testing of links between any earlier emergences and warmer temperatures. If winter temperatures increased, then it would be expected that adult odonate emergences will occur earlier in the year. First capture dates for 24 species of spring-emerging odonates were compared for 2015 and 2017 and these first capture dates served as a proxy for emergence dates. The statistical analyses revealed that the 2017 first capture dates are significantly earlier than the 2015 dates (p = 0.036) for just the damselflies. This link observed here between temperatures and earlier emergences for damselflies, but not with dragonflies, is for a very limited scope and time frame, but is consistent with other research linking the effects of climate to larger-scale patterns specifically just for damselflies.
